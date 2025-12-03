@@ -84,7 +84,3 @@ Le notebook génère automatiquement :
 • Visualisations des 3 jeux de données
 • Rapport final rédigé avec conclusions et recommandations
 
-Tout est prêt à être rendu – aucune modification nécessaire.
-
-Bonne correction !
-[Prénom NOM]
