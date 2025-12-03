@@ -79,8 +79,5 @@ Wine (6k)      2        1,52 s         3,27 s         -
 Adult (48k)    9        16,73 s        7,14 s         ≈ égal
 HIGGS (1M)     2        145 s         56,59 s         ×41 !
 
-Le notebook génère automatiquement :
-• Tableau comparatif complet
-• Visualisations des 3 jeux de données
-• Rapport final rédigé avec conclusions.
+
 
