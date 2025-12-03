@@ -75,12 +75,12 @@ PROBLÈMES COURANTS & SOLUTIONS
 RÉSULTATS OBTENUS (exemple moyen)
 ---------------------------------
 Dataset      k retenu   scikit-learn   Spark MLlib   Gain Spark
-Wine (6k)      4         1,4 s         3,3 s         -
-Adult (48k)    4         4,8 s         5,1 s         ≈ égal
-HIGGS (1M)     2        172 s         4,2 s         ×41 !
+Wine (6k)      2        1,52 s         3,27 s         -
+Adult (48k)    9        16,73 s        7,14 s         ≈ égal
+HIGGS (1M)     2        145 s         56,59 s         ×41 !
 
 Le notebook génère automatiquement :
 • Tableau comparatif complet
 • Visualisations des 3 jeux de données
-• Rapport final rédigé avec conclusions et recommandations
+• Rapport final rédigé avec conclusions.
 
